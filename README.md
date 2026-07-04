@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Diogo Lopes
 
 - 🔭 Atualmente cursando Sistemas de Informação
-- 🌱 Estudando JavaScript
+- 🌱 Estudando C, C++
 - 😄 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
