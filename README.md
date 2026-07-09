@@ -19,3 +19,4 @@ Aprendendo na prática, um projeto de cada vez 🚀
   
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/dioguinholf/dioguinholf/output/github-snake.svg)
