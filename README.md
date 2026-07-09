@@ -25,4 +25,8 @@ Aprendendo na prática, um projeto de cada vez 🚀
   <a href="https://x.com/_dioguinho1" target="_blank"><img src="https://img.shields.io/badge/-X-%23000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/dioguinholf/dioguinholf/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dioguinholf/dioguinholf/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dioguinholf/dioguinholf/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/dioguinholf/dioguinholf/output/pacman-contribution-graph.svg">
+</picture>
