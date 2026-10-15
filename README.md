@@ -18,10 +18,10 @@ No trabalho, uso dados para apoiar decisões: dashboards, relatórios e indicado
 
 <br><br>
 <div>
-  <a href="https://www.instagram.com/dioguinho_lopess/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/4WgYvU8m" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/diogolopesdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://x.com/_dioguinho1" target="_blank"><img src="https://img.shields.io/badge/-X-%23000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/dioguinho_lopess"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://linkedin.com/in/diogolopesdev"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://x.com/_dioguinho1"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://discord.com/users/SEU_ID"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </div>
 
 <picture>
