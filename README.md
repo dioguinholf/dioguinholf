@@ -1,8 +1,20 @@
-### Hey, o que há de novo? 👋
+## Olá nobre dev, eu sou o Diogo 👋😁
 
-Estudante de Sistemas de Informação (UFRPE) focado em back-end. 
-Construindo APIs, bancos de dados e sistemas em Node.js, PostgreSQL e C. 
-Aprendendo na prática, um projeto de cada vez 🚀
+Analista de Business Intelligence e estudante de Sistemas de Informação na UFRPE, em transição para o desenvolvimento de software. Aprendo na prática, um projeto de cada vez 🚀
+
+### 🛠️ Tecnologias
+(seus ícones atuais ficam aqui)
+
+### 📁 Projetos em destaque
+- **LopeSports:** e-commerce de camisas de futebol com autenticação e controle de acesso por perfil. → [repositório](https://github.com/dioguinholf/LOPES-STORES)
+- **Sistema de Biblioteca (Python):** projeto versionado com Git e GitHub. → [repositório](https://github.com/dioguinholf/sistema-biblioteca)
+- **Portfólio e App de Clima:** [portfólio](https://dioguinholf.github.io/MEU-PORTIFOLIO/) · [app de clima](https://dioguinholf.github.io/projeto-app-clima/)
+
+### 📊 Além do código
+No trabalho, uso dados para apoiar decisões: dashboards, relatórios e indicadores em Power BI e Excel.
+
+### 📫 Contato
+[LinkedIn](https://linkedin.com/in/diogolopesdev) · diogo.lopesf@ufrpe.br
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Diogo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
