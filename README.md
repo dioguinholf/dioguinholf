@@ -14,7 +14,7 @@ Analista de Business Intelligence e estudante de Sistemas de Informação na UFR
 No trabalho, uso dados para apoiar decisões: dashboards, relatórios e indicadores em Power BI e Excel.
 
 ### 📫 Contato
-[LinkedIn](https://linkedin.com/in/diogolopesdev) · diogo.lopesf@ufrpe.br
+diogo.lopesf@ufrpe.br
 
 <br><br>
 <div>
