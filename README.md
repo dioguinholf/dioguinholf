@@ -1,4 +1,4 @@
-## Olá nobre dev, eu sou o Diogo 👋😁
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:8957E5&height=140&section=header&text=Olá%20nobre%20dev,%20eu%20sou%20o%20Diogo&fontSize=32&animation=fadeIn&fontAlignY=38" width="100%" />
 
 Analista de Business Intelligence e estudante de Sistemas de Informação na UFRPE, em transição para o desenvolvimento de software. Aprendo na prática, um projeto de cada vez 🚀
 
@@ -29,3 +29,5 @@ diogo.lopesf@ufrpe.br
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dioguinholf/dioguinholf/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/dioguinholf/dioguinholf/output/pacman-contribution-graph.svg">
 </picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:8957E5&height=100&section=footer" width="100%" />
