@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:8957E5&height=140&section=header&text=Olá%20nobre%20dev,%20eu%20sou%20o%20Diogo&fontSize=32&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:8957E5&height=140&section=header&text=Olá,%20eu%20sou%20o%20Diogo&fontSize=32&animation=fadeIn&fontAlignY=38" width="100%" />
 
 Estudante de Sistemas de Informação na UFRPE com experiência em dados, atendimento e suporte, em transição para o desenvolvimento back-end. Aprendo na prática, um projeto de cada vez 🚀
 
