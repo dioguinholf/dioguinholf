@@ -1,33 +1,25 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:8957E5&height=140&section=header&text=Olá,%20eu%20sou%20o%20Diogo&fontSize=32&animation=fadeIn&fontAlignY=38" width="100%" />
+# Diogo Lopes de França
 
-Estudante de Sistemas de Informação na UFRPE com experiência em dados, atendimento e suporte, em transição para o desenvolvimento back-end. Aprendo na prática, um projeto de cada vez 🚀
+**Desenvolvedor back-end em formação** · Sistemas de Informação na UFRPE · Maceió, AL
 
-### 🛠️ Tecnologias
-![Tecnologias](https://skillicons.dev/icons?i=nodejs,js,html,css,postgres,c,git,github,py)
+Construo sistemas com Node.js e PostgreSQL e tenho experiência prática com dados: dashboards, relatórios e indicadores em Power BI e Excel. Estou aberto a oportunidades.
 
-### 📁 Projetos em destaque
-- **LopeSports:** e-commerce de camisas de futebol com autenticação e controle de acesso por perfil. → [repositório](https://github.com/dioguinholf/LOPES-STORES)
-- **Sistema de Biblioteca (Python):** projeto versionado com Git e GitHub. → [repositório](https://github.com/dioguinholf/sistema-biblioteca)
-- **Portfólio e App de Clima:** [portfólio](https://dioguinholf.github.io/MEU-PORTIFOLIO/) · [app de clima](https://dioguinholf.github.io/projeto-app-clima/)
+🌐 **Portfólio:** [dioguinholf.github.io/MEU-PORTIFOLIO](https://dioguinholf.github.io/MEU-PORTIFOLIO/)
 
-### 📊 Além do código
-No trabalho, uso dados para apoiar decisões: dashboards, relatórios e indicadores em Power BI e Excel.
+## Stack
 
-### 📫 Contato
-diogo.lopesf@ufrpe.br
+- **Back-end:** Node.js, Express, C
+- **Banco de dados:** PostgreSQL, MariaDB, MongoDB
+- **Front-end:** JavaScript, HTML, CSS, React
+- **Ferramentas:** Git, GitHub, Python, Power BI, Excel
 
-<br><br>
-<div>
-<a href="https://instagram.com/dioguinho_lopess"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://linkedin.com/in/diogolopesdev"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://x.com/_dioguinho1"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="https://discord.com/users/SEU_ID"><img src="https://skillicons.dev/icons?i=discord" /></a>
-</div>
+## Projetos em destaque
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dioguinholf/dioguinholf/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dioguinholf/dioguinholf/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/dioguinholf/dioguinholf/output/pacman-contribution-graph.svg">
-</picture>
+- **[LOPES STORES](https://github.com/dioguinholf/LOPES-STORES)**: loja virtual com back-end e banco de dados.
+- **[Sistema de Biblioteca](https://github.com/dioguinholf/sistema-biblioteca)**: projeto em Python versionado com Git e GitHub.
+- **[App de Clima](https://dioguinholf.github.io/projeto-app-clima/)**: consulta de clima consumindo uma API.
+- **[Calculadora](https://dioguinholf.github.io/calculadora-portifolio/)**: HTML, CSS Grid e JavaScript puro.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:8957E5&height=100&section=footer" width="100%" />
+## Contato
+
+[LinkedIn](https://linkedin.com/in/diogolopesdev) · [diogo.lopesf@ufrpe.br](mailto:diogo.lopesf@ufrpe.br)
