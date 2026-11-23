@@ -1,8 +1,8 @@
 # Diogo Lopes de França
 
-**Desenvolvedor back-end em formação** · Sistemas de Informação na UFRPE · Maceió, AL
+**Estudante de Sistemas de Informação (UFRPE)** · Dados e desenvolvimento · Maceió, AL
 
-Construo sistemas com Node.js e PostgreSQL e tenho experiência prática com dados: dashboards, relatórios e indicadores em Power BI e Excel. Estou aberto a oportunidades.
+Trabalho com análise de dados (dashboards, relatórios e indicadores em Power BI e Excel) e estou aprendendo a construir sistemas com Node.js e PostgreSQL. Estou aberto a oportunidades.
 
 🌐 **Portfólio:** [dioguinholf.github.io/MEU-PORTIFOLIO](https://dioguinholf.github.io/MEU-PORTIFOLIO/)
 
